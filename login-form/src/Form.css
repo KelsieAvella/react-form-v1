@@ -18,33 +18,29 @@
   color: #fff;
   cursor: pointer;
 }
-
+/*url('paper.gif'); */
 .form-content-left {
-  background: linear-gradient(
-    90deg,
-    rgb(89, 213, 97) 0%,
-    #9cef98 100%
-  );
+  background: url(/Users/kelsie13/Documents/GitHub/react-form-v1/login-form/public/img/bulletinboard.jpeg);
   border-radius: 10px 0 0 10px;
   position: relative;
 }
 
 .form-img {
-  width: 80%;
-  height: 80%;
+  width: 200%;
+  height: 100%;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-40%, -50%);
 }
 
 .form-img-2 {
-  width: 60%;
-  height: 60%;
+  width: 100%;
+  height: 100%;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-90%, -90%);
 }
 
 .form-success {
@@ -57,7 +53,7 @@
 .form-content-right {
   border-radius: 0 10px 10px 0;
   position: relative;
-  background: linear-gradient(90deg, rgb(231, 161, 70) 0%, rgb(207, 131, 44) 100%);
+  background: linear-gradient(90deg, rgb(142, 247, 100) 0%, rgb(101, 238, 32) 100%);
 }
 
 .form {
@@ -121,8 +117,9 @@
   border-radius: 2px;
   background: linear-gradient(
     90deg,
-    rgb(75, 255, 105) 0%,
-    rgb(16, 206, 54) 100%
+    rgb(250, 250, 72) 0%,
+    rgb(173, 65, 205) 100%
+   
   );
   outline: none;
   border: none;
@@ -134,8 +131,8 @@
   cursor: pointer;
   background: linear-gradient(
     90deg,
-    rgb(56, 204, 100) 0%,
-    rgb(71, 244, 18) 100%
+    rgb(247, 233, 88) 0%,
+    rgb(237, 241, 10) 100%
   );
   transition: all 0.4s ease-out;
 }
@@ -150,6 +147,6 @@
 
 .form-input-login a {
   text-decoration: none;
-  color: #43ee4c;
+  color: #fff86b;
   font-weight: 600;
 }
