@@ -53,7 +53,7 @@
 .form-content-right {
   border-radius: 0 10px 10px 0;
   position: relative;
-  background: linear-gradient(90deg, rgb(142, 247, 100) 0%, rgb(101, 238, 32) 100%);
+  background: linear-gradient(90deg, rgb(100, 216, 54) 0%, rgb(78, 211, 12) 100%);
 }
 
 .form {
@@ -131,8 +131,8 @@
   cursor: pointer;
   background: linear-gradient(
     90deg,
-    rgb(247, 233, 88) 0%,
-    rgb(237, 241, 10) 100%
+    rgb(114, 247, 88) 0%,
+    rgb(129, 241, 10) 100%
   );
   transition: all 0.4s ease-out;
 }
@@ -147,6 +147,6 @@
 
 .form-input-login a {
   text-decoration: none;
-  color: #fff86b;
-  font-weight: 600;
+  color: #ecf639;
+  font-weight: 800;
 }
