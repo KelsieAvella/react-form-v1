@@ -20,7 +20,7 @@
 }
 /*url('paper.gif'); */
 .form-content-left {
-  background: url(/Users/kelsie13/Documents/GitHub/react-form-v1/login-form/public/img/bulletinboard.jpeg);
+  background: url("signup-form/public/img/bulletinboard.jpeg");
   border-radius: 10px 0 0 10px;
   position: relative;
 }
