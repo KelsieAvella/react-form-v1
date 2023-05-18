@@ -20,7 +20,7 @@
 }
 /*url('paper.gif'); */
 .form-content-left {
-  background: url("signup-form/public/img/bulletinboard.jpeg");
+  background: url("/Users/kelsie13/Documents/GitHub/react-form-v1/signup-form/public/img/bulletinboard.jpeg");
   border-radius: 10px 0 0 10px;
   position: relative;
 }
@@ -53,7 +53,7 @@
 .form-content-right {
   border-radius: 0 10px 10px 0;
   position: relative;
-  background: linear-gradient(90deg, rgb(100, 216, 54) 0%, rgb(78, 211, 12) 100%);
+  background: #b3df45;
 }
 
 .form {
