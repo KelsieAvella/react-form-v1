@@ -1,3 +1,5 @@
+/*
+
 import React from 'react';
 import './App.css'; // testing go back and change to main
 import Form from './Form'; 
@@ -6,6 +8,18 @@ import Form from './Form';
 function App() {
   return <Form />;
   //return <SignIn/>;
+
+}
+
+export default App;
+*/
+
+import React from 'react';
+import './App.css'; 
+import About from './About';
+
+function App(){
+  return <About />;
 
 }
 
